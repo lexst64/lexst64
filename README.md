@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm @lexst64 👋
 
-<!--
-**lexst64/lexst64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile repository.
 
-Here are some ideas to get you started:
+## 🚀 About me
+- 🔭 I’m focused on building reliable software and automation.
+- 🌱 I’m continuously learning and improving across backend and cloud tooling.
+- 🤝 I’m open to collaborating on practical open-source projects.
+- 💬 Ask me about developer workflows, CI/CD, and code quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech stack
+`TypeScript` `JavaScript` `Python` `Node.js` `Git` `GitHub Actions`
+
+## 📫 Contact
+The best way to connect is through GitHub issues or discussions on my repositories.
