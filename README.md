@@ -10,9 +10,6 @@
   <a href="mailto:oleksii.stoliarchuk@icloud.com">
     <img src="https://img.shields.io/badge/Email-oleksii.stoliarchuk%40icloud.com-007AFF?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/lexst64">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ---
