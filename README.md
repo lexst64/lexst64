@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Oleksii 👋</h1>
-<h3 align="center">Artificial Intelligence Student @ JKU Linz</h3>
+<h1 align="center">Oleksii Stoliarchuk</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/oleksii-stoliarchuk">
@@ -18,20 +17,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### About me
 
-Motivated Artificial Intelligence undergraduate student at Johannes Kepler University Linz, passionate about bringing strong software engineering practices to real-world AI systems.
+Artificial Intelligence undergraduate student, passionate about bringing strong software engineering practices to real-world AI systems.
 
-- 🎓 **Education:** B.Sc. in Artificial Intelligence at [Johannes Kepler University Linz](https://www.jku.at/) (Mar 2024 – Sep 2027) — *GPA: 2.0 (3.0 US GPA)*.
-- 🧑‍🏫 **Work Experience:** Teaching Assistant at JKU Linz.
-- 🧠 **Focus Areas:** Deep Learning pipelines, Computer Vision (CNNs, transfer learning, data augmentation), and scalable Full-Stack Web Development.
-- 🎯 **Career Goal:** Seeking a **Machine Learning Engineer** role to build reliable, high-performance, and reproducible AI solutions.
-- 🌍 **Languages:** English (C1), German (B2), Ukrainian (Native), Russian (Native).
-- 📍 **Location:** Linz, Austria.
+- **Education:** B.Sc. in Artificial Intelligence at Johannes Kepler University Linz (Mar 2024 – exp. Sep 2027) — *GPA: 2.0 (3.0 US GPA)*.
+- **Focus Areas:** Deep Learning pipelines, Computer Vision (CNNs, transfer learning, data augmentation), and scalable Full-Stack Web Development.
+- **Languages:** English (C1), German (B2), Ukrainian (Native), Russian (Native).
+- **Location:** Linz, Austria.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Skills
 
 #### **Machine Learning & Deep Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,12 +60,12 @@ Motivated Artificial Intelligence undergraduate student at Johannes Kepler Unive
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/lexst64/simple-converter">🔄 Simple Converter</a></h3>
+      <h3 align="center"><a href="https://github.com/lexst64/simple-converter">Simple Converter</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
@@ -87,7 +84,7 @@ Motivated Artificial Intelligence undergraduate student at Johannes Kepler Unive
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/lexst64/image-classifier">🖼️ Image Classifier</a></h3>
+      <h3 align="center"><a href="https://github.com/lexst64/image-classifier">Image Classifier</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -110,27 +107,16 @@ Motivated Artificial Intelligence undergraduate student at Johannes Kepler Unive
 
 ---
 
-### 💼 Experience
+### Experience
 
-#### **Teaching Assistant** — *Johannes Kepler University Linz*
+#### **Tutor** — *Johannes Kepler University Linz*
 *Mar 2026 – Present | Linz, Austria*
-- **Deep Learning Pipelines:** Evaluated end-to-end PyTorch workflows for multi-class satellite image classification, verifying CNN architectures, data pipelines, and optimization loops.
-- **Code Reviews:** Conducted in-depth technical reviews for **100+ student submissions** within tight 2–3 week grading windows, emphasizing clean architecture, documentation, and best practices.
-- **Reproducibility & Robustness:** Audited models against independent, secret verification datasets to validate generalization and detect overfitting or data tampering.
+- Assistance with Programming in Python II, Hands-on AI I, Programming in Python I.
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lexst64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oleksii's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexst64&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
----
-
-### 📫 Connect With Me
-
-- 💼 **LinkedIn:** [linkedin.com/in/oleksii-stoliarchuk](https://www.linkedin.com/in/oleksii-stoliarchuk)
-- ✉️ **Email:** [oleksii.stoliarchuk@icloud.com](mailto:oleksii.stoliarchuk@icloud.com)
-- 🐙 **GitHub:** [@lexst64](https://github.com/lexst64)
+- **LinkedIn:** [linkedin.com/in/oleksii-stoliarchuk](https://www.linkedin.com/in/oleksii-stoliarchuk)
+- **Email:** [oleksii.stoliarchuk@icloud.com](mailto:oleksii.stoliarchuk@icloud.com)
+- **GitHub:** [@lexst64](https://github.com/lexst64)
